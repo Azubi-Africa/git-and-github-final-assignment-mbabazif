@@ -15,16 +15,16 @@ The following steps constitute your assignment :
 1. Finally, **commit** with the message `My 3 repositories has been created`, then **push your commit**.
 
 ## Recap Table
-The below table must contain the details of the repositories you will create, fill it please.
+The below table must contain the details of the repositories you will create, fill it, please.
 
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  mnist             |  Mnist for Categorical data analyst             | [https://](https://github.com/mbabazif/mnist)       |
+| 2 |  advert             |  Advertisement analysis on the data            | [https:// ](https://github.com/mbabazif/advert)      |
+| 3 |  housing             |  Califonia housing                            | [https://](https://github.com/mbabazif/Housing)       |
 
-**NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
+**NB**: `Do not modify` the general structure of this table above to avoid the issue of evaluation, just fill the rows.
 
 ## Setup
 Install the required packages to be able to run the evaluation locally.
